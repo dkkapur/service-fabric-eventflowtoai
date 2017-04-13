@@ -1,0 +1,150 @@
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\TestStatelessService.exe.config
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\TestStatelessService.exe
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\TestStatelessService.pdb
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Core.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Inputs.Trace.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Outputs.ApplicationInsights.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Outputs.EventHub.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.ServiceFabric.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Json.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceBus.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Newtonsoft.Json.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\ServiceFabricServiceModel.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Collections.Immutable.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.ComponentModel.Primitives.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Fabric.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Fabric.Strings.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Validation.dll
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ApplicationInsights.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Json.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceBus.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Newtonsoft.Json.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Collections.Immutable.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Fabric.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Validation.xml
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\obj\x64\Debug\TestStatelessService.csprojResolveAssemblyReference.cache
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\obj\x64\Debug\TestStatelessService.exe
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\obj\x64\Debug\TestStatelessService.pdb
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.EtwUtilities.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Inputs.EventSource.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.AppContext.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Console.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Net.Sockets.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Outputs.StdOutput.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\TestStatelessService.exe.config
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\TestStatelessService.exe
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\TestStatelessService.pdb
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Core.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.EtwUtilities.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Inputs.EventSource.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Inputs.Trace.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Outputs.ApplicationInsights.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Outputs.EventHub.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.Outputs.StdOutput.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Diagnostics.EventFlow.ServiceFabric.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceBus.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.AppContext.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.ComponentModel.Primitives.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Console.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Fabric.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Net.Sockets.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Validation.dll
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceBus.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Fabric.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\bin\x64\Debug\Validation.xml
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\obj\x64\Debug\TestStatelessService.csprojResolveAssemblyReference.cache
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\obj\x64\Debug\TestStatelessService.exe
+C:\Users\dekapur\Desktop\MonitoringDemo\TestStatelessService\obj\x64\Debug\TestStatelessService.pdb

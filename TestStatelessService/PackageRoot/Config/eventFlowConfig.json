@@ -1,0 +1,54 @@
+{
+  "inputs": [
+    {
+      "type": "eventsource",
+      "sources": [
+        { "providername": "microsoft-servicefabric-services" },
+        { "providername": "microsoft-servicefabric-actors" },
+        { "providername": "dekapur-MonitoringDemo-TestStatelessService" }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "type": "drop",
+      "include": "level == verbose || ProviderName == System.Threading.Tasks.TplEventSource"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "ApplicationInsights",
+      "instrumentationKey": "***INSERT APP INSIGHTS KEY HERE***",
+      "filters": [
+        {
+          "type": "metadata",
+          "metadata": "metric",
+          "include": "ProviderName==dekapur-MonitoringDemo-TestStatelessService && EventName==ReportMetric",
+          "metricName": "Response Time",
+          "metricValueProperty": "requestTime"
+        }
+      ]
+    }
+    // please update the instrumentationkey.
+    //{
+    //  "type": "applicationinsights",
+    //  "instrumentationkey": "00000000-0000-0000-0000-000000000000"
+    //}
+  ],
+  "schemaversion": "2016-08-11",
+  // "healthreporter": {
+  //   "type": "csvhealthreporter",
+  //   "logfilefolder": ".",
+  //   "logfileprefix": "healthreport",
+  //   "minreportlevel": "warning",
+  //   "throttlingperiodmsec": "1000"
+  // },
+  // "settings": {
+  //    "pipelinebuffersize": "1000",
+  //    "maxeventbatchsize": "100",
+  //    "maxbatchdelaymsec": "500",
+  //    "maxconcurrency": "8",
+  //    "pipelinecompletiontimeoutmsec": "30000"
+  // },
+  "extensions": []
+}

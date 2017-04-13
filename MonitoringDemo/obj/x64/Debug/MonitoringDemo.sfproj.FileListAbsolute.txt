@@ -1,0 +1,3 @@
+c:\users\dekapur\documents\visual studio 2017\Projects\MonitoringDemo\MonitoringDemo\obj\x64\Debug\MonitoringDemo.sfprojResolveAssemblyReference.cache
+C:\Users\dekapur\Desktop\MonitoringDemo\MonitoringDemo\obj\x64\Debug\MonitoringDemo.sfprojResolveAssemblyReference.cache
+C:\Users\dekapur\GitHub\service-fabric-eventflowtoai\MonitoringDemo\obj\x64\Debug\MonitoringDemo.sfprojResolveAssemblyReference.cache
