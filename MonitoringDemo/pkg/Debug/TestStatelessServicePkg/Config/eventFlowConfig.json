@@ -18,7 +18,7 @@
   "outputs": [
     {
       "type": "ApplicationInsights",
-      "instrumentationKey": "bde95e39-4bff-43db-a26c-5ea566223ae7",
+      "instrumentationKey": "50b93c28-e904-4014-8450-024bbe1e9572",
       "filters": [
         {
           "type": "metadata",

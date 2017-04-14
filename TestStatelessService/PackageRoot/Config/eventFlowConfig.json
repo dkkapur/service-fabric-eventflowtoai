@@ -18,7 +18,7 @@
   "outputs": [
     {
       "type": "ApplicationInsights",
-      "instrumentationKey": "***INSERT APP INSIGHTS KEY HERE***",
+      "instrumentationKey": "***INSERT AI INSTRUMENTATION KEY***",
       "filters": [
         {
           "type": "metadata",
